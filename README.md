@@ -8,7 +8,9 @@ This project uses machine learning to classify passengers as survivors or non-su
 
 ## Setup and Usage
 Clone this repository
+
 Install required packages: pip install -r requirements.txt
+
 Open and run the Jupyter notebook titanic_survival_classification.ipynb
 
 ## Data Source
@@ -19,4 +21,4 @@ URL: https://www.kaggle.com/datasets/heptapod/titanic
 ## Contact
 Amirhosein Vakili - amirhosein7210@gmail.com
 
-Project Link: ...
+Project Link: https://github.com/amirhvakili/Titanic_Survivors_Prediction
